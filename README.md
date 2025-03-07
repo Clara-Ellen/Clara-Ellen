@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👋! My name is Clara Gomes and I'm a Student, from Brazil.</h2>
 
 ###
