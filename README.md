@@ -6,7 +6,9 @@
 
 ###
 
-<img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ8deNam8tdABZ7GYvnqoEkUGvqzFx64xXRA&s"  />
+<div align="right">
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ8deNam8tdABZ7GYvnqoEkUGvqzFx64xXRA&s"  />
+</div>
 
 ###
 
